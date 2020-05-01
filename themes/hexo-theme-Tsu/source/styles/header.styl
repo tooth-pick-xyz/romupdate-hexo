@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@font-face {
+    font-family: 'Koruri';
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.eot');
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.eot?#iefix') format('embedded-opentype');
+    src: url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.woff') format('woff'),
+         url('//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.ttf') format('truetype');
+    
+    /*  for fuck'n chrome  */
+    src: url(//cdn.plusminus.io/font/webkoruri/20140628/WebKoruri.woff) format('woff'); 
+}
+body {
+    font-family: Koruri;
+}
+
+header {
+    display: block
+    box-shadow: 0 0 3px rgba(0,0,0,0.1);
+    height: 65px;
+    margin-top: -5px;
+    line-height: 65px;
+    font-family: 'Varela Round';
+    .title {
+        float: left;
+        position: relative;
+        font-size: 26px;
+        font-family: 'Varela Round';
+}
+    .site-nav {
+        float: right;
+        margin-right: -12px;
+        .menu{
+            display: block;
+            font-family: 'Varela Round';
+            position: relative;
+            font-family: 'Varela Round';
+            padding-left: 0;
+            padding-right: 0px;
+            .menu-item {
+                display: inline-block;
+                margin-right: 15px;
+                font-size: 16px;
+            }}}
+}
+header:before, header:after {
+    content: " ";
+    display: table;
+}
+header:after {
+    clear: both;
+}
+@media only screen and (max-width: 520px) {
+    .title {
+        display: none
+    }
+
+}
