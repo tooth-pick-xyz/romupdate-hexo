@@ -4,6 +4,9 @@ date: 2020-05-03
 tags: 
     - evert
     - FlokoROM
+meta:
+    - property: og:type
+      content: article
 ---
 
 # FlokoROM for evert Update

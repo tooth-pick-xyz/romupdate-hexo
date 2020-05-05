@@ -4,9 +4,12 @@ date: 2020-05-04
 tags: 
     - guacamoleb
     - FlokoROM
+meta:
+    - property: og:type
+      content: article
 ---
 
-# FlokoROM for evert Update
+# FlokoROM for guacamoleb Update
 
 ## ROM version
 

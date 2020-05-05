@@ -2,6 +2,9 @@
 title: Latest version as of May 2, 2020
 date: 2020-05-02
 tags: evert
+meta:
+    - property: og:type
+      content: article
 ---
 
 # Latest version as of May 2, 2020
