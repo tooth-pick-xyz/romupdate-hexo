@@ -4,7 +4,7 @@
             <div class="post-title">
                 <a class="post-title-link text-underline" href="<%- url_for(post.path) %>"><%= post.title %></a>
             </div>
-            <p class="sub"><%- date(post.date, "MMM DD YYYY") %></p>
+            <p class="sub"><%- date(post.date, "YYYY/MM/DD") %></p>
             <div class="post-content">
                 <%- post.content %>
             </div>
