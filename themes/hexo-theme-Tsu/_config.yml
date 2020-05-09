@@ -10,6 +10,6 @@ github: https://github.com/tumayouzi
 # email: mailto:youremail
 
 #Put into /source
-avator: avator.jpg
+avator: /img/avator.jpg
 
-favicon: /favicon.png
+favicon: /img/favicon.png
