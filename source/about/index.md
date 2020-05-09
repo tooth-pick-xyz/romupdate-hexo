@@ -1,5 +1,8 @@
 ---
 title: About
+meta:
+    - property: og:type
+      content: article
 ---
 
 **日本語は英語の後にあります。スクロールしてご覧ください。**
