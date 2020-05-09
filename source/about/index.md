@@ -2,6 +2,8 @@
 title: About
 ---
 
+**日本語は英語の後にあります。スクロールしてご覧ください。**
+
 # About
 
 This site notifies you of updates to FlokoROM for each device.
