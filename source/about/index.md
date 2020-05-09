@@ -21,8 +21,8 @@ This is mainly for phone where tumayouzi is a device maintainer.
         - [Xda](https://forum.xda-developers.com/g6-plus/development/rom-flokorom-v3-0-t4069063)
 - OnePlus
     - OnePlus 7 (guacamoleb)
-        - Unoffical (Later, it became official.)
-        - Xda ... in preparation.
+        - Offical
+        - [Xda](https://forum.xda-developers.com/oneplus-7/development/rom-flokorom-v3-0-t4093225)
 
 # In Japanese (日本語)
 
@@ -43,6 +43,6 @@ FlokoROMとは ほた/hota(あるいはlindwurm) がメンテナをしているA
         - [Xda](https://forum.xda-developers.com/g6-plus/development/rom-flokorom-v3-0-t4069063)
 - OnePlus
     - OnePlus 7 (guacamoleb)
-        - Unoffical (後にOfficalになりますが、テスト段階です)
-        - Xda ... 準備中
+        - Offical
+        - [Xda](https://forum.xda-developers.com/oneplus-7/development/rom-flokorom-v3-0-t4093225)
 
