@@ -1,0 +1,29 @@
+[[headers]]
+for = "/*"
+[headers.values]
+Cache-Control = "public, max-age=2592000, must-revalidate"
+
+[[headers]]
+for = "/feed.xml"
+[headers.values]
+cache-control = "no-store"
+
+[[headers]]
+for = "/fonts/*"
+[headers.values]
+cache-control = "public, max-age=31536000, must-revalidate"
+
+[[headers]]
+for = "/styles/*"
+[headers.values]
+cache-control = "public, max-age=2592000, must-revalidate"
+
+[[headers]]
+for = "/js/*"
+[headers.values]
+cache-control = "public, max-age=2592000, must-revalidate"
+
+[[headers]]
+for = "/img/*"
+[headers.values]
+cache-control = "public, max-age=31536000, must-revalidate"
